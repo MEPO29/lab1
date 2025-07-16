@@ -1,0 +1,12 @@
+google-cloud-aiplatform
+kfp
+google-cloud-bigquery
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+joblib
+db-dtypes
+google-auth
+google-cloud-pipeline-components
+
